@@ -18,15 +18,15 @@ public class GitClass {
 
 	}
 	
-	private void ind() {
-		System.out.println("my country is india");
+	private void aus() {
+		System.out.println("my country is australia");
 
 	}
-	private void tamilNadu() {
-		System.out.println("my state is tamilnadu");
+	private void english() {
+		System.out.println("my language is english");
 	}
 	
-	private void trichy() {
-		System.out.println("my distric is trichy");
+	private void tasmania() {
+		System.out.println("my state is tasmania");
 	}
 }
