@@ -17,4 +17,16 @@ public class GitClass {
 		System.out.println("my brother name is dharaneesh");
 
 	}
+	
+	private void ind() {
+		System.out.println("my country is india");
+
+	}
+	private void tamilNadu() {
+		System.out.println("my state is tamilnadu");
+	}
+	
+	private void trichy() {
+		System.out.println("my distric is trichy");
+	}
 }
